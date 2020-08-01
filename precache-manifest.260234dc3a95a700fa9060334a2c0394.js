@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2f74ab7a4be0ce21ae37",
+    "revision": "fd4bedb1af7e61672e98",
     "url": "/JuneMovieApi/static/css/main.7940e5cb.chunk.css"
   },
   {
-    "revision": "2f74ab7a4be0ce21ae37",
-    "url": "/JuneMovieApi/static/js/main.2f74ab7a.chunk.js"
+    "revision": "fd4bedb1af7e61672e98",
+    "url": "/JuneMovieApi/static/js/main.fd4bedb1.chunk.js"
   },
   {
     "revision": "37611993bbeaee52c59f",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/JuneMovieApi/static/js/runtime~main.ff1c3565.js"
   },
   {
-    "revision": "2107c91061b867361798d01fa128bded",
+    "revision": "4a108a5ea2ac9248143330d5dbf7de2d",
     "url": "/JuneMovieApi/index.html"
   }
 ];
